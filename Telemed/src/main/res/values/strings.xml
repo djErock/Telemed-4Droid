@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Telemedicine</string>
+    <string name="fireBaseInitPageTitle">Firebase Initialization</string>
+    <string name="clockInStatus">You are now clocked in and ready to receive exam notifications.</string>
+    <string name="btnClockOut">CLOCK OUT</string>
+    <string name="title_activity_login">Telemedicine Log In</string>
+    <string name="title_activity_provider_dashboard">Provider Dashboard</string>
+    <string name="title_activity_telemed_exam_room">TelemedExamRoom</string>
+</resources>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingTop="8dp"
+    android:paddingRight="16dp"
+    android:paddingBottom="8dp"
+    android:paddingLeft="16dp"
+>
+
+    <View android:id="@+id/statusIndicator"
+        android:layout_width="10dp"
+        android:layout_height="60dp"
+        android:layout_alignParentLeft="true"
+        android:background="@android:color/holo_green_light"
+        android:visibility="visible"/>
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:orientation="vertical"
+        android:layout_width="fill_parent"
+        android:paddingLeft="16dp"
+        android:paddingRight="16dp"
+        android:layout_height="60dp"
+        >
+
+        <TextView
+            android:id="@+id/PatientNameTextView"
+            android:layout_width="match_parent"
+            android:layout_height="20dp"
+            android:layout_alignParentLeft="true"
+            android:textColor="@android:color/black"
+            android:orientation="vertical"
+            android:textSize="16sp"
+            android:textStyle="bold"
+            android:layout_centerVertical="true"
+        />
+
+        <TextView
+            android:id="@+id/CompanyNameTextView"
+            android:layout_width="match_parent"
+            android:layout_height="20dp"
+            android:layout_alignParentLeft="true"
+            android:orientation="vertical"
+            android:textColor="@android:color/darker_gray"
+            android:textSize="14sp"
+            android:textStyle="normal"
+            android:layout_centerVertical="true"
+            />
+
+        <TextView
+            android:id="@+id/DateOfServiceTextView"
+            android:layout_width="match_parent"
+            android:layout_height="20dp"
+            android:layout_alignParentLeft="true"
+            android:orientation="vertical"
+            android:textColor="@android:color/darker_gray"
+            android:textSize="14sp"
+            android:textStyle="normal"
+            android:layout_centerVertical="true"
+            />
+
+    </LinearLayout>
+
+</LinearLayout>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Telemed/Telemed.iml" filepath="$PROJECT_DIR$/Telemed/Telemed.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TelemedApplication.iml" filepath="$PROJECT_DIR$/TelemedApplication.iml" />
+    </modules>
+  </component>
+</project>

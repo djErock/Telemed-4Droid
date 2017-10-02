@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "979711182449",
+    "firebase_url": "https://telemed-521be.firebaseio.com",
+    "project_id": "telemed-521be",
+    "storage_bucket": "telemed-521be.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:979711182449:android:daa7177f3cdd212f",
+        "android_client_info": {
+          "package_name": "com.caduceususa.telemed"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "979711182449-5fd8mgg7bc0g9hbdi7p9r32o0vftmq9f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.caduceususa.telemed",
+            "certificate_hash": "f1dacd0ca7c78aeb9293262eb9d93e32ed0041c9"
+          }
+        },
+        {
+          "client_id": "979711182449-bgif87t6caqp7r6adnn1v0fjql0dshsm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBf7M28LnC7SiM_CiCqCP1b6f3PJAb-dIA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "979711182449-ak4n4n2vdi8ug1r3tdb75nepnonnabcc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.caduceususa.telemed"
+              }
+            },
+            {
+              "client_id": "979711182449-bgif87t6caqp7r6adnn1v0fjql0dshsm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
